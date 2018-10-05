@@ -34,15 +34,14 @@
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
           <span class="credits left">Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="credits right">GitHub Pages &mdash;, theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+          <span class="credits right">GitHub Pages, theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
         </div>
 
         {{ content }}
 
       </section>
-      <section><div class="fork"><a href="{{ site.github.repository_url }}">Go to GitHub repo …</a></div></section> 
+      <footer><div class="fork"><a href="{{ site.github.repository_url }}">Go to GitHub repo …</a></div></footer> 
     </div>
 
     {% if site.google_analytics %}
