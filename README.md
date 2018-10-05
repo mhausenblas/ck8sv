@@ -13,3 +13,4 @@ Amazon Elastic Container Service for Kubernetes [EKS](https://docs.aws.amazon.co
 Google Kubernetes Engine [GKE](https://cloud.google.com/kubernetes-engine/release-notes) |  1.10 (1.11) | 2018-09-18 | SLO see [versioning and upgrades](https://cloud.google.com/kubernetes-engine/versioning-and-upgrades) docs
 OpenShift [OKD](https://docs.okd.io/latest/welcome/index.html) | 1.10 | 2018-08-03 | 2-3 times a year
 
+Note: if you happen to be responsible for one of the above distributions and spot an inaccuracy, please PR this page or raise and issue so that we can get it fixed. 
