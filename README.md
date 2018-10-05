@@ -14,3 +14,6 @@ OpenShift [OKD](https://docs.okd.io/latest/welcome/index.html) | 1.10 | 2018-08-
 Notes:
 
 (I) While 1.10 is the default, 1.11 is available for whitelisted early-access users.
+
+
+_You might be wondering why the FQDN of this site is `sup.kubernetes.sh` … well, the cool kids these day don't say "What's up" but "sup", for short. Since this site is all about what's currently up (and available) in Kubernetes distros, I thought this is an appropriate name. Yeah, I know, Michael should really not be allowed to name things ;)_
