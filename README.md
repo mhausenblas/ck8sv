@@ -16,5 +16,6 @@ Notes:
 
 (A) While 1.10 is the default, 1.11 is available for whitelisted early-access users.
 
+For a complete list, covering all certified Kubernetes distributions, see the [Kubernetes Distributions & Platforms](https://docs.google.com/spreadsheets/d/1LxSqBzjOxfGx3cmtZ4EbB_BGCxT_wlxW_xgHVVa23es/) list maintained by CNCF.
 
 _You might be wondering why the FQDN of this site is `sup.kubernetes.sh` … well, the cool kids these day don't say "What's up" but "sup", for short. Since this site is all about what's currently up (and available) in Kubernetes distros, I thought this is an appropriate name. Yeah, I know, Michael should really not be allowed to name things ;)_
