@@ -2,7 +2,7 @@ This site keeps track of the currently supported Kubernetes version(s) across no
 
 > The current Kubernetes version, as of 2018-09-27, is [1.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.12.0).
 
-In alphabetical order, the current supported version in the following distributions is:
+In alphabetical order, the current supported version in the following distributions is (with SLO being the _Service Level Objective_, put in other words the goal to hit):
 
 Distribution  | Current  | Valid as of  | Comments
 ------------- | -------- | ------------ | --------
