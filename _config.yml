@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+title: Current Kubernetes Versions
+description: Keeps track of the current Kubernetes version across notable distributions
+show_downloads: false
+google_analytics:
