@@ -6,15 +6,16 @@ In alphabetical order, the current supported version in the Kubernetes distribut
 
 Distribution  | Current  | Valid as of  | SLO      | Type
 ------------- | -------- | ------------ | -------- | --------
-Azure Kubernetes Service [AKS](https://docs.microsoft.com/en-us/azure/aks/supported-kubernetes-versions) | 1.11  | 2018-09-21 | 30 days after upstream, subject to the stability of the release | hosted
+Azure Kubernetes Service [AKS](https://docs.microsoft.com/en-us/azure/aks/supported-kubernetes-versions) | 1.9 (1.10)<sup>A</sup>  | 2018-09-21 | 30 days after upstream, subject to the stability of the release | hosted
 Amazon Elastic Container Service for Kubernetes [EKS](https://docs.aws.amazon.com/eks/latest/userguide/platform-versions.html) | 1.10 |  ?  | No SLO or public plans re upgrades | hosted
-Google Kubernetes Engine [GKE](https://cloud.google.com/kubernetes-engine/release-notes) |  1.10 (1.11)<sup>A</sup> | 2018-09-18 | See [versioning and upgrades](https://cloud.google.com/kubernetes-engine/versioning-and-upgrades) docs | hosted
+Google Kubernetes Engine [GKE](https://cloud.google.com/kubernetes-engine/release-notes) |  1.10 (1.11)<sup>B</sup> | 2018-09-18 | See [versioning and upgrades](https://cloud.google.com/kubernetes-engine/versioning-and-upgrades) docs | hosted
 [OKD](https://docs.okd.io/latest/welcome/index.html) | 1.10 | 2018-08-03 | bound to upstream release cycle, one version behind to fix known post-release issues | vendor
 Red Hat [OpenShift Online Starter](https://www.openshift.com/products/online/) | 1.11 | 2018-10-05 | same as OKD | hosted
 
 Notes:
 
-(A) While 1.10 is the default, 1.11 is available for whitelisted early-access users.
+(A) While 1.9 is the default, 1.10 is available via a safe, staged rolling upgrade.
+(B) While 1.10 is the default, 1.11 is available for whitelisted early-access users.
 
 For a complete list, covering all certified Kubernetes distributions, see the [Kubernetes Distributions & Platforms](https://docs.google.com/spreadsheets/d/1LxSqBzjOxfGx3cmtZ4EbB_BGCxT_wlxW_xgHVVa23es/) list maintained by CNCF.
 
