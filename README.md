@@ -14,7 +14,7 @@ Red Hat [OpenShift Online Starter](https://www.openshift.com/products/online/) |
 
 Notes:
 
-(A) While 1.9 is the default, 1.10 is available via a safe, staged rolling upgrade.
+(A) While 1.9 is the default, 1.10 is available via a safe, staged rolling upgrade. <br/>
 (B) While 1.10 is the default, 1.11 is available for whitelisted early-access users.
 
 For a complete list, covering all certified Kubernetes distributions, see the [Kubernetes Distributions & Platforms](https://docs.google.com/spreadsheets/d/1LxSqBzjOxfGx3cmtZ4EbB_BGCxT_wlxW_xgHVVa23es/) list maintained by CNCF.
