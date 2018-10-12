@@ -1,4 +1,4 @@
-This site keeps track of the currently supported Kubernetes version(s) across notable distributions. We try to update it at least after every minor Kubernetes upstream release, that is, for example, 1.11 to 1.12. Note that if you happen to be responsible for one of the below listed distributions and spot an inaccuracy, please PR this page or raise an issue so that we can get it fixed. Also, new additions are welcome.
+This site keeps track of the currently supported Kubernetes version(s) across notable distributions. We will try to keep this list updated after every minor Kubernetes upstream release, that is, for example, 1.11 to 1.12. Note that if you happen to be responsible for one of the below listed distributions and spot an inaccuracy, please PR this page or raise an issue so that we can get it fixed. Also, new additions are welcome.
 
 > The current Kubernetes version, as of 2018-09-27, is [1.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.12.0).
 
